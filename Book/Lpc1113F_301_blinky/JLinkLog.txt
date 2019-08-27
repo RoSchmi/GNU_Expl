@@ -1,0 +1,40 @@
+T49C4 046:060 SEGGER J-Link V6.48 Log File (0001ms, 1170ms total)
+T49C4 046:060 DLL Compiled: Jul 26 2019 17:48:11 (0001ms, 1170ms total)
+T49C4 046:060 Logging started @ 2019-08-27 16:14 (0001ms, 1170ms total)
+T49C4 046:061 JLINK_SetWarnOutHandler(...) (0000ms, 1170ms total)
+T49C4 046:061 JLINK_OpenEx(...)
+Firmware: J-Link ARM V8 compiled Nov 28 2014 13:44:46
+Hardware: V8.00
+S/N: 268003384
+OEM: SEGGER-EDU
+Feature(s): FlashBP, GDB
+TELNET listener socket opened on port 19021WEBSRV 
+Starting webserver (0068ms, 1238ms total)
+T49C4 046:061 WEBSRV Webserver running on local port 19080 (0068ms, 1238ms total)
+T49C4 046:061   returns O.K. (0068ms, 1238ms total)
+T49C4 046:129 JLINK_GetEmuCaps()  returns 0xB9FF7BBF (0000ms, 1238ms total)
+T49C4 046:130 JLINK_TIF_GetAvailable(...) (0000ms, 1238ms total)
+T49C4 046:130 JLINK_SetErrorOutHandler(...) (0000ms, 1238ms total)
+T49C4 046:130 JLINK_ExecCommand("ProjectFile = "C:\Users\Roland\source\GNU_Expl\Book\Lpc1113F_301_blinky\JLinkSettings.ini"", ...).   returns 0x00 (0002ms, 1240ms total)
+T49C4 046:132 JLINK_ExecCommand("Device = LPC1113FBD48/301", ...). Device "LPC1113/301" selected.  returns 0x00 (0000ms, 1240ms total)
+T49C4 046:132 JLINK_ExecCommand("DisableConnectionTimeout", ...).   returns 0x01 (0000ms, 1240ms total)
+T49C4 046:132 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 1240ms total)
+T49C4 046:132 JLINK_GetDLLVersion()  returns 64800 (0000ms, 1240ms total)
+T49C4 046:132 JLINK_GetDLLVersion()  returns 64800 (0001ms, 1241ms total)
+T49C4 046:133 JLINK_GetCompileDateTime() (0000ms, 1241ms total)
+T49C4 046:133 JLINK_GetFirmwareString(...) (0000ms, 1241ms total)
+T49C4 046:133 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 1241ms total)
+T49C4 046:133 JLINK_TIF_Select(JLINKARM_TIF_SWD)  returns 0x00 (0000ms, 1241ms total)
+T49C4 046:134 JLINK_SetSpeed(2000) (0000ms, 1241ms total)
+T49C4 046:134 JLINK_SetResetType(JLINKARM_RESET_TYPE_NORMAL)  returns JLINKARM_RESET_TYPE_NORMAL (0000ms, 1241ms total)
+T49C4 046:134 JLINK_Reset() >0x10B TIF>Found SW-DP with ID 0x0BB11477 >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x28 TIF>Scanning AP map to find all available APs >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x21 TIF>AP[1]: Stopped AP scan as end of AP map has been reachedAP[0]: AHB-AP (IDR: 0x04770021)Iterating through AP map to find AHB-AP to use
+ >0x42 TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x21 TIF> >0x42 TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x21 TIF>AP[0]: Core foundAP[0]: AHB-AP ROM base: 0xE00FF000 >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x21 TIF>CPUID register: 0x410CC200. Implementer code: 0x41 (ARM)Found Cortex-M0 r0p0, Little endian. -- Max. mem block: 0x00002408
+ -- CPU_ReadMem(4 bytes @ 0xE000EDF0) -- CPU_WriteMem(4 bytes @ 0xE000EDF0) -- CPU_ReadMem(4 bytes @ 0xE0002000)FPUnit: 4 code (BP) slots and 0 literal slots -- CPU_ReadMem(4 bytes @ 0xE000EDFC) -- CPU_WriteMem(4 bytes @ 0xE000EDFC) -- CPU_ReadMem(4 bytes @ 0xE0001000) -- CPU_WriteMem(4 bytes @ 0xE0001000)CoreSight components:ROMTbl[0] @ E00FF000 -- CPU_ReadMem(16 bytes @ 0xE00FF000) -- CPU_ReadMem(16 bytes @ 0xE000EFF0) -- CPU_ReadMem(16 bytes @ 0xE000EFE0)
+ROMTbl[0][0]: E000E000, CID: B105E00D, PID: 000BB008 SCS -- CPU_ReadMem(16 bytes @ 0xE0001FF0) -- CPU_ReadMem(16 bytes @ 0xE0001FE0)ROMTbl[0][1]: E0001000, CID: B105E00D, PID: 000BB00A DWT -- CPU_ReadMem(16 bytes @ 0xE0002FF0) -- CPU_ReadMem(16 bytes @ 0xE0002FE0)ROMTbl[0][2]: E0002000, CID: B105E00D, PID: 000BB00B FPB -- CPU is running -- CPU_WriteMem(4 bytes @ 0xE000EDF0) -- CPU is running -- CPU_WriteMem(4 bytes @ 0xE000EDFC)Reset: Halt core after reset via DEMCR.VC_CORERESET. >0x35 TIF>
+Reset: Reset device via AIRCR.SYSRESETREQ. -- CPU is running -- CPU_WriteMem(4 bytes @ 0xE000ED0C) >0x0D TIF> >0x28 TIF> -- CPU_ReadMem(4 bytes @ 0xE000EDF0) -- CPU_ReadMem(4 bytes @ 0xE000EDF0) -- CPU is running -- CPU_WriteMem(4 bytes @ 0xE000EDF0) -- CPU is running -- CPU_WriteMem(4 bytes @ 0xE000EDFC) -- CPU_ReadMem(4 bytes @ 0xE000EDF0) -- CPU_WriteMem(4 bytes @ 0xE0002000) -- CPU_ReadMem(4 bytes @ 0xE000EDFC) -- CPU_ReadMem(4 bytes @ 0xE0001000) -- CPU_WriteMem(4 bytes @ 0xE0001000)
+ (0213ms, 1454ms total)
+T49C4 046:347 JLINK_GetId() >0x0D TIF> >0x21 TIF>  returns 0x0BB11477 (0002ms, 1456ms total)
+T49C4 046:357 JLINK_GetFirmwareString(...) (0000ms, 1456ms total)
+T49C4 055:456 JLINK_Close() -- CPU_ReadMem(4 bytes @ 0xE0001000) -- CPU_WriteMem(4 bytes @ 0xE0001000) -- CPU_WriteMem(4 bytes @ 0xE0001004) >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x28 TIF> >0x0D TIF> >0x21 TIF> >0x0D TIF> >0x28 TIF> (0016ms, 1472ms total)
+T49C4 055:456  (0016ms, 1472ms total)
+T49C4 055:456 Closed (0016ms, 1472ms total)

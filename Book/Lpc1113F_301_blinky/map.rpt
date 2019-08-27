@@ -1,0 +1,351 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-exit.o)
+                              c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o (exit)
+c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-impure.o)
+                              c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
+                              c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o (__libc_init_array)
+c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memset.o)
+                              c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o (memset)
+c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libnosys.a(_exit.o)
+                              c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+ctr                 0x4               C:\Users\Roland\AppData\Local\Temp\ccF3wSpM.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crti.o
+ .data          0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crti.o
+ .bss           0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crti.o
+ .data          0x00000000        0x4 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+ .data          0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+ .bss           0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+ .text          0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 C:\Users\Roland\AppData\Local\Temp\ccOf07zu.o
+ .bss           0x00000000        0x0 C:\Users\Roland\AppData\Local\Temp\ccOf07zu.o
+ .text          0x00000000        0x0 C:\Users\Roland\AppData\Local\Temp\ccF3wSpM.o
+ .data          0x00000000        0x0 C:\Users\Roland\AppData\Local\Temp\ccF3wSpM.o
+ .bss           0x00000000        0x0 C:\Users\Roland\AppData\Local\Temp\ccF3wSpM.o
+ .text.LED_Set  0x00000000        0xc C:\Users\Roland\AppData\Local\Temp\ccF3wSpM.o
+ .text.LED_Clear
+                0x00000000        0xc C:\Users\Roland\AppData\Local\Temp\ccF3wSpM.o
+ .rodata.led_mask
+                0x00000000        0xc C:\Users\Roland\AppData\Local\Temp\ccF3wSpM.o
+ .text          0x00000000        0x0 C:\Users\Roland\AppData\Local\Temp\ccys4pL7.o
+ .data          0x00000000        0x0 C:\Users\Roland\AppData\Local\Temp\ccys4pL7.o
+ .bss           0x00000000        0x0 C:\Users\Roland\AppData\Local\Temp\ccys4pL7.o
+ .text          0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtend.o
+ .data          0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtend.o
+ .bss           0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtend.o
+ .text          0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
+ .data          0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
+ .bss           0x00000000        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00006000         xr
+RAM              0x10000000         0x00002000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crti.o
+LOAD c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+LOAD c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+LOAD c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m\libgcc.a
+LOAD c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a
+LOAD c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libnosys.a
+LOAD C:\Users\Roland\AppData\Local\Temp\ccOf07zu.o
+LOAD C:\Users\Roland\AppData\Local\Temp\ccF3wSpM.o
+LOAD C:\Users\Roland\AppData\Local\Temp\ccys4pL7.o
+START GROUP
+LOAD c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m\libgcc.a
+LOAD c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg_nano.a
+LOAD c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m\libgcc.a
+LOAD c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a
+END GROUP
+LOAD c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtend.o
+LOAD c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
+
+.text           0x00000000      0x3a8
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 C:\Users\Roland\AppData\Local\Temp\ccOf07zu.o
+                0x00000000                __isr_vector
+ *(.text*)
+ .text          0x000000c0       0x48 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+ .text          0x00000108       0x78 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+                0x00000108                _start
+                0x00000108                _mainCRTStartup
+ .text.exit     0x00000180       0x2c c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-exit.o)
+                0x00000180                exit
+ .text.__libc_init_array
+                0x000001ac       0x48 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
+                0x000001ac                __libc_init_array
+ .text.memset   0x000001f4       0x10 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memset.o)
+                0x000001f4                memset
+ .text._exit    0x00000204        0x4 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libnosys.a(_exit.o)
+                0x00000204                _exit
+ .text          0x00000208       0x58 C:\Users\Roland\AppData\Local\Temp\ccOf07zu.o
+                0x00000208                Reset_Handler
+                0x00000230                NMI_Handler
+                0x00000232                HardFault_Handler
+                0x00000234                SVC_Handler
+                0x00000236                DebugMon_Handler
+                0x00000238                PendSV_Handler
+                0x0000023a                SysTick_Handler
+                0x0000023c                Default_Handler
+                0x0000023c                DEF_IRQHandler
+                0x0000023e                WAKEUP_IRQHandler
+                0x00000240                SSP1_IRQHandler
+                0x00000242                I2C_IRQHandler
+                0x00000244                TIMER16_0_IRQHandler
+                0x00000246                TIMER16_1_IRQHandler
+                0x00000248                TIMER32_0_IRQHandler
+                0x0000024a                TIMER32_1_IRQHandler
+                0x0000024c                SSP0_IRQHandler
+                0x0000024e                UART_IRQHandler
+                0x00000250                ADC_IRQHandler
+                0x00000252                WDT_IRQHandler
+                0x00000254                BOD_IRQHandler
+                0x00000256                PIOINT3_IRQHandler
+                0x00000258                PIOINT2_IRQHandler
+                0x0000025a                PIOINT1_IRQHandler
+                0x0000025c                PIOINT0_IRQHandler
+ .text.Delay    0x00000260        0xa C:\Users\Roland\AppData\Local\Temp\ccF3wSpM.o
+                0x00000260                Delay
+ *fill*         0x0000026a        0x2 
+ .text.LED_Config
+                0x0000026c       0x44 C:\Users\Roland\AppData\Local\Temp\ccF3wSpM.o
+                0x0000026c                LED_Config
+ .text.startup.main
+                0x000002b0       0x38 C:\Users\Roland\AppData\Local\Temp\ccF3wSpM.o
+                0x000002b0                main
+ .text.Main_PLL_Setup
+                0x000002e8       0x74 C:\Users\Roland\AppData\Local\Temp\ccys4pL7.o
+                0x000002e8                Main_PLL_Setup
+ .text.SystemInit
+                0x0000035c       0x2c C:\Users\Roland\AppData\Local\Temp\ccys4pL7.o
+                0x0000035c                SystemInit
+ *(.init)
+ .init          0x00000388        0x4 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crti.o
+                0x00000388                _init
+ .init          0x0000038c        0x8 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
+ *(.fini)
+ .fini          0x00000394        0x4 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crti.o
+                0x00000394                _fini
+ .fini          0x00000398        0x8 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata._global_impure_ptr
+                0x000003a0        0x4 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-impure.o)
+                0x000003a0                _global_impure_ptr
+ *(.eh_frame*)
+ .eh_frame      0x000003a4        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+ .eh_frame      0x000003a4        0x4 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtend.o
+
+.glue_7         0x000003a8        0x0
+ .glue_7        0x000003a8        0x0 linker stubs
+
+.glue_7t        0x000003a8        0x0
+ .glue_7t       0x000003a8        0x0 linker stubs
+
+.vfp11_veneer   0x000003a8        0x0
+ .vfp11_veneer  0x000003a8        0x0 linker stubs
+
+.v4_bx          0x000003a8        0x0
+ .v4_bx         0x000003a8        0x0 linker stubs
+
+.iplt           0x000003a8        0x0
+ .iplt          0x000003a8        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x000003a8                __exidx_start = .
+
+.ARM.exidx      0x000003a8        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x000003a8        0x8 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+                0x000003b0                __exidx_end = .
+                0x000003b0                __etext = .
+
+.rel.dyn        0x000003b0        0x0
+ .rel.iplt      0x000003b0        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+
+.data           0x10000000       0x74 load address 0x000003b0
+                0x10000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.impure_data
+                0x10000000       0x60 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-impure.o)
+ .data.ClockSource
+                0x10000060        0x4 C:\Users\Roland\AppData\Local\Temp\ccys4pL7.o
+                0x10000060                ClockSource
+ .data.SystemAHBFrequency
+                0x10000064        0x4 C:\Users\Roland\AppData\Local\Temp\ccys4pL7.o
+                0x10000064                SystemAHBFrequency
+ .data.SystemFrequency
+                0x10000068        0x4 C:\Users\Roland\AppData\Local\Temp\ccys4pL7.o
+                0x10000068                SystemFrequency
+                0x1000006c                . = ALIGN (0x4)
+                0x1000006c                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x1000006c                PROVIDE (__preinit_array_end = .)
+                0x1000006c                . = ALIGN (0x4)
+                0x1000006c                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+ .init_array    0x1000006c        0x4 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+                0x10000070                PROVIDE (__init_array_end = .)
+                0x10000070                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x10000070        0x4 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end = .)
+ *(.jcr*)
+                0x10000074                . = ALIGN (0x4)
+                0x10000074                __data_end__ = .
+
+.igot.plt       0x10000074        0x0 load address 0x00000424
+ .igot.plt      0x10000074        0x0 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+
+.bss            0x10000074       0x20 load address 0x00000424
+                0x10000074                . = ALIGN (0x4)
+                0x10000074                __bss_start__ = .
+ *(.bss*)
+ .bss           0x10000074       0x1c c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+ *(COMMON)
+ COMMON         0x10000090        0x4 C:\Users\Roland\AppData\Local\Temp\ccF3wSpM.o
+                0x10000090                ctr
+                0x10000094                . = ALIGN (0x4)
+                0x10000094                __bss_end__ = .
+
+.heap           0x10000098        0x0
+                0x10000098                __end__ = .
+                [!provide]                PROVIDE (end = .)
+ *(.heap*)
+ .heap          0x10000098        0x0 C:\Users\Roland\AppData\Local\Temp\ccOf07zu.o
+                0x10000098                __HeapLimit = .
+
+.stack_dummy    0x10000098      0xc00
+ *(.stack*)
+ .stack         0x10000098      0xc00 C:\Users\Roland\AppData\Local\Temp\ccOf07zu.o
+                0x10002000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x10001400                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x10002000                PROVIDE (__stack = __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(blinky.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x28
+ .ARM.attributes
+                0x00000000       0x1e c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crti.o
+ .ARM.attributes
+                0x0000001e       0x2c c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x1b c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+ .ARM.attributes
+                0x00000065       0x2c c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000091       0x2c c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000000bd       0x2c c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x000000e9       0x2c c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000115       0x2c c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000141       0x1b C:\Users\Roland\AppData\Local\Temp\ccOf07zu.o
+ .ARM.attributes
+                0x0000015c       0x31 C:\Users\Roland\AppData\Local\Temp\ccF3wSpM.o
+ .ARM.attributes
+                0x0000018d       0x31 C:\Users\Roland\AppData\Local\Temp\ccys4pL7.o
+ .ARM.attributes
+                0x000001be       0x2c c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtend.o
+ .ARM.attributes
+                0x000001ea       0x1e c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
+
+.comment        0x00000000       0x7f
+ .comment       0x00000000       0x7f C:\Users\Roland\AppData\Local\Temp\ccF3wSpM.o
+                                 0x80 (size before relaxing)
+ .comment       0x0000007f       0x80 C:\Users\Roland\AppData\Local\Temp\ccys4pL7.o
+
+.debug_frame    0x00000000      0x138
+ .debug_frame   0x00000000       0x28 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000028       0x2c c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x00000054       0x20 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000074       0x20 c:/nanoframework_tools/gnu_arm_toolchain/7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libnosys.a(_exit.o)
+ .debug_frame   0x00000094       0x6c C:\Users\Roland\AppData\Local\Temp\ccF3wSpM.o
+ .debug_frame   0x00000100       0x38 C:\Users\Roland\AppData\Local\Temp\ccys4pL7.o
+
+.debug_line     0x00000000      0x443
+ .debug_line    0x00000000       0x85 C:\Users\Roland\AppData\Local\Temp\ccOf07zu.o
+ .debug_line    0x00000085      0x20c C:\Users\Roland\AppData\Local\Temp\ccF3wSpM.o
+ .debug_line    0x00000291      0x1b2 C:\Users\Roland\AppData\Local\Temp\ccys4pL7.o
+
+.debug_info     0x00000000      0xd8a
+ .debug_info    0x00000000       0x26 C:\Users\Roland\AppData\Local\Temp\ccOf07zu.o
+ .debug_info    0x00000026      0x8fd C:\Users\Roland\AppData\Local\Temp\ccF3wSpM.o
+ .debug_info    0x00000923      0x467 C:\Users\Roland\AppData\Local\Temp\ccys4pL7.o
+
+.debug_abbrev   0x00000000      0x311
+ .debug_abbrev  0x00000000       0x14 C:\Users\Roland\AppData\Local\Temp\ccOf07zu.o
+ .debug_abbrev  0x00000014      0x1fe C:\Users\Roland\AppData\Local\Temp\ccF3wSpM.o
+ .debug_abbrev  0x00000212       0xff C:\Users\Roland\AppData\Local\Temp\ccys4pL7.o
+
+.debug_aranges  0x00000000       0x88
+ .debug_aranges
+                0x00000000       0x20 C:\Users\Roland\AppData\Local\Temp\ccOf07zu.o
+ .debug_aranges
+                0x00000020       0x40 C:\Users\Roland\AppData\Local\Temp\ccF3wSpM.o
+ .debug_aranges
+                0x00000060       0x28 C:\Users\Roland\AppData\Local\Temp\ccys4pL7.o
+
+.debug_str      0x00000000      0x667
+ .debug_str     0x00000000       0x72 C:\Users\Roland\AppData\Local\Temp\ccOf07zu.o
+ .debug_str     0x00000072      0x57f C:\Users\Roland\AppData\Local\Temp\ccF3wSpM.o
+                                0x5f5 (size before relaxing)
+ .debug_str     0x000005f1       0x76 C:\Users\Roland\AppData\Local\Temp\ccys4pL7.o
+                                0x43a (size before relaxing)
+
+.debug_loc      0x00000000       0x44
+ .debug_loc     0x00000000       0x2b C:\Users\Roland\AppData\Local\Temp\ccF3wSpM.o
+ .debug_loc     0x0000002b       0x19 C:\Users\Roland\AppData\Local\Temp\ccys4pL7.o
+
+.debug_ranges   0x00000000       0x68
+ .debug_ranges  0x00000000       0x50 C:\Users\Roland\AppData\Local\Temp\ccF3wSpM.o
+ .debug_ranges  0x00000050       0x18 C:\Users\Roland\AppData\Local\Temp\ccys4pL7.o
